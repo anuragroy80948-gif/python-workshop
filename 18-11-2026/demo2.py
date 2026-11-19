@@ -5,3 +5,4 @@ def product(name,code):
     print("product name ", name)
 
 product(code=1, name="printer")
+print("this was the argumented list function")
